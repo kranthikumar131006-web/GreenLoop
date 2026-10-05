@@ -1,0 +1,6 @@
+{
+  "name": "GreenLoop - Campus Eco & Swap App",
+  "description": "GreenLoop empowers students to build sustainable campus habits with daily eco streaks, a zero-waste campus swap box, and reverse green rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
